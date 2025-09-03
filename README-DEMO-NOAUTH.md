@@ -9,7 +9,7 @@ The content genrated by the action starts here:
 
 | Username | Day Streak (CEST) | Total XP |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 546 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 74783 |
+| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 547 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 74813 |
 
 | Language | XP |
 |:---:|:---:|
